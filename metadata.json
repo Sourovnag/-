@@ -1,0 +1,6 @@
+{
+  "name": "রক্ত দিতে প্রস্তুত",
+  "description": "রক্ত দিতে প্রস্তুত আমরা - Blood Donation Platform for Cumilla & Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
